@@ -1,3 +1,12 @@
+## About This Fork
+This repository is a **fork** of the original backend for the Flutter Dating Web Application, developed as part of a collaborative project. My primary role in this project was **backend development**, ensuring seamless database communication, authentication, and API functionality. This fork exists to highlight my contributions while maintaining credit to the original team.
+
+### My Contributions
+- Led backend development, including API design and database integration.
+- Developed authentication/token systems for user verification.
+- Implemented CRUD operations for account management.
+- Worked with the frontend team to ensure smooth data flow.
+
 # Flutter Backend
 
 # Overview
